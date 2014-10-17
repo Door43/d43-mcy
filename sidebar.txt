@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcy:home|Door43 (mcy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcy|d43-mcy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcy/archive/master.zip|d43-mcy.zip]]
+
+**Recent Changes**
+{{changes>ns = mcy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcy|Ethnologue data]]
+
